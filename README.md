@@ -1,2 +1,2 @@
-# Machine-Learning
-Wine quality preference
+# Wine Quality
+In this project, different Machine Learning techniques were used on a wine dataset, to class and predict a wine preference and quality based on the physicochemical data. The dataset used is related to red Vinho Verde wine samples, from the north of Portugal. Three classification techniques are implemented: Support Vector Machine, Logistic Regression, k-Nearest Neighbors (kNN) algorithms were used. Their performance was obtained, evaluated, compared, and discussed based on their scores and findings.
